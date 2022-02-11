@@ -1,10 +1,4 @@
-# Pure JavaScript
-
-![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
-
 ## Welcome! 👋
-
-### The challenge
 
 - Build out the project using VanillaJS .
 
