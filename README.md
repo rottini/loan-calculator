@@ -6,7 +6,7 @@
 
 ### The challenge
 
-- Build out the project to the designs provided basic understanding of HTML, CSS and JavaScript.
+- Build out the project using VanillaJS .
 
 ### Screenshot
 
@@ -22,17 +22,9 @@
 
 ### Links
 
-- Live Site URL: [github-pages](https://rottini.github.io/article-preview-component-master/)
-
-## My process
-
-### Built with
-
-- HTML5 
-- CSS custom properties
-- JavaScript 
+- Live Site URL: [github-pages](https://rottini.github.io/loan-calculator/)
 
 ## Author
 
 - Website - [Rafael](https://github.com/rottini)
-- Frontend Mentor - [rottini](https://github.com/rottini/article-preview-component-master)
+[project](https://github.com/rottini/loan-calculator)
